@@ -82,7 +82,7 @@ let recognizer;
 //MQTT
 const clientId = 'mqttjs_' + Math.random().toString(16).substr(2, 8)
 
-const host = 'ws://mqtt.eclipseprojects.io:80/mqtt'
+const host = 'wss://mqtt.eclipseprojects.io:443/mqtt'
 
 
 
