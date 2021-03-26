@@ -1,0 +1,39 @@
+
+<!-- Code Cited
+https://livecodestream.dev/post/speech-recognition-with-tensorflowjs/ -->
+<html>
+<head>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@2.0.0/dist/tf.min.js"></script>
+    <script src="https://unpkg.com/@tensorflow-models/speech-commands"></script>
+    <script src="https://unpkg.com/mqtt/dist/mqtt.min.js"></script>
+
+    <style type="text/css">
+        .hidden {
+            display: none;
+        }
+
+        .active {
+            background-color: #090;
+        }
+    </style>
+
+    <script src = "Speech.js"></script>
+
+</head>
+<body>
+    <div class="demo">
+        Please enable the microphone checkbox and authorize this site to access the microphone.
+        <br />
+        Once the process finished loading speak one of the word bellow and see the magic happen.
+        <br /><br />
+        <div>
+            <label class="form-switch">
+                <input type="checkbox" id="audio-switch">
+                Microphone
+            </label>
+            <div id="demo-loading" class="hidden">Loading...</div>
+        </div>
+        <div id="sp-cmd-wrapper" class="grid"></div>
+    </div>
+</body>
+</html>
