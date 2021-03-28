@@ -3,6 +3,7 @@
 //run with server: python -m http.server
 //go to: http://localhost:8000/
 //host on: https://jieguann.github.io/Intro-to-AI-Final/ObjectDetection/
+
 const clientId = 'mqttjs_' + Math.random().toString(16).substr(2, 8)
 
 const host = 'wss://mqtt.eclipseprojects.io:443/mqtt'
