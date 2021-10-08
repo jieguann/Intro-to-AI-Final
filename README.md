@@ -49,6 +49,15 @@ There are different automated machine who are connected to the main server and w
 * They have an app, which lets the user select and modify the character according to their choice. The user can interact to the assistant through text or speech. Speech ML is limited to a selected number of responses, so the user must be precise before asking the questions or must consider checking the rule book before communicating. 
 * Real human looking models have also been created, which communicate through speech. 
 
+## Summarize
+### Actual Scenario
+* If we are to share our physical, social and cultural space then we need to understand the dimensions and affordances of the ongoing AI innovations well enough to participate in an informed discourse regarding their possibilities and consequences.
+* Education towards the concept and ethics of AI should be made available, broken down into a simpler format for larger audience to understand. 
+### Represented Scenario
+* Human-Machine Collaboration with AI models.
+* The connection between models with Internet-of-Thing framework(MQTT).
+* A test to feed virtual scene into the teachable machine and use the model to classified a virtual environment.
+
 
 
 
