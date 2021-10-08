@@ -19,6 +19,11 @@ https://user-images.githubusercontent.com/60665347/136539253-3074048f-8bec-4580-
 * Different libraries commands different actions of the machine. They helps the machine guide its way to complete the given task but with a human interference. 
 * The purpose here is that machines will take part in our daily lives and we will also take benefits of its inhumane strength, speed, sightedness but to achieve those activities and still make them suitable to exist amongst us we need AI to be developed for them to think critically and ML can help achieve those tasks.
 
+## Design process and workflow
+
+![image](https://user-images.githubusercontent.com/60665347/136540959-5fd5fbbb-4914-4ac1-b52e-734e77ba7b92.png)
+
+
 ## Tools Selected
 Object Detection (coco-ssd) (https://github.com/tensorflow/tfjs-models/tree/master/coco-ssd) \
 Speech Command c (https://github.com/tensorflow/tfjs-models/tree/master/speech-commands) \
