@@ -34,6 +34,22 @@ Teachable Machine (https://teachablemachine.withgoogle.com/train)\
 ![image](https://user-images.githubusercontent.com/60665347/136540774-b684a708-1636-441a-98e0-b365258a34b9.png)
 
 
+## Working Concepts and Examples
+* Image Recognition - https://www.fiercehealthcare.com/hospitals-health-systems/verily-s-india-project-reveals-work-applying-ai-to-real-world-clinical
+In a southern state in India, there appeared a major problem where diabetic patients went through a common and scary disease called, "Diabetic Retinopathy" which when left untreatable can cause blindness.
+* The number of patients compared to the doctors are very less, it causes a major imbalance. 
+* Doctors and scientists from, "Google" took up the task and through the help of AI, they developed an Image Recognition model to scan the retinas of various diabetic patients. The model was trained with 100,000 images and the data was classified into 5 stages of the disease. 
+"Verily" combined the ML into the eye scanner machines and made the product available in the market. Now the patients can be tested speedily, easily and can be treated earlier than the situation worsens.
+* Object Detection – https://www.youtube.com/watch?v=2BRHSij_bIM
+* A company in California that handles export of about 200 million dollars a year. They have unlimited number of containers flowing in all year round and the task of segregating, organizing and managing the containers throughout for storing and deliveries gets very difficult. 
+To the rescue, the site has become automated where an AI is developed whose task is to store the data of the number of the container through a technique called "Optimal Character Recognition". The technique is different from the object detection in a way the characters are recognized here. 
+There are different automated machine who are connected to the main server and when and where received a message they will go to the location to pick up or drop a container, guided by trackers. 
+* Speech Recognizer - https://www.youtube.com/watch?v=pC4Jjjoohl8
+* "Realbotix" is a company that focuses on creating robots that fill the gap of humans by being their companion. 
+* They have an app, which lets the user select and modify the character according to their choice. The user can interact to the assistant through text or speech. Speech ML is limited to a selected number of responses, so the user must be precise before asking the questions or must consider checking the rule book before communicating. 
+* Real human looking models have also been created, which communicate through speech. 
+
+
 
 
 ## Contributors
